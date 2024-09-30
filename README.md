@@ -1,1 +1,2 @@
 # LANGUAGE TRANSLATION TOOL WITH AI---CODEALPHA---AI ENGINEERING
+I developed a language translation tool using Python and the Google Translate API, featuring a user-friendly Tkinter GUI. Users can select source and target languages, input text, and receive real-time translations. The tool handles language codes and offers accurate translations across various contexts, demonstrating my skills in GUI development, API integration, and exception handling.
